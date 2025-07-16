@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Помогатор
 // @namespace    http://tampermonkey.net/
-// @version      1.5.8
+// @version      1.5.9
 // @description  Помогатор сотрудникам службы поддержки ВБ
 // @author       Anonym
 // @match        https://portal-cc.wildberries.ru/*
